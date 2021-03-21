@@ -1,5 +1,5 @@
 # empty
-its an empty
+its an empty repository 
 
 
 
